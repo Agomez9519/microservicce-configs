@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:postgresql://localhost:5555/companies-qa
+    url: jdbc:postgresql://localhost:5432/companies-qa
     username: debuggeandoideas-qa
     password: KJHAS54AHJG
     hikari:
